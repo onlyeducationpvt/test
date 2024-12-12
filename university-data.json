@@ -1,0 +1,146 @@
+[
+    {
+      "id": 1,
+      "college": {
+        "name": "SP Jain Institute of Management and Research (SPJIMR) Mumbai",
+        "location": "Mumbai, Maharashtra",
+        "established": 1981,
+        "approved_by": [
+          "AICTE",
+          "NBA",
+          "AMBA",
+          "AACSB"
+        ],
+        "ownership_type": "Private",
+        "nirf_rank": 20,
+        "latest_update": "SPJIMR Mumbai is one of the top B-School in India. SPJIMR PGDM program was ranked by Financial Times MiM Rankings 2024 as No 1 MBA-equivalent program in India, ahead of MBA programs of Top 3 IIMs. SPJIMR Mumbai PGDM Placements are also at par with top IIMs with average salary 2024 of Rs. 33.00 Lakhs per annum. SPJIMR PGDM Admission 2025 are open and last date to apply is November 22, 2024. Apply Now.",
+        "highlight_table": {
+          "Establishment Year": 1981,
+          "Ownership Type": "Private",
+          "Approved/Accredited by": [
+            "NBA",
+            "AACSB",
+            "AMBA",
+            "AICTE"
+          ],
+          "Rankings": {
+            "NIRF": 20,
+            "MBAUniverse.com": 5,
+            "Business Today": 3
+          },
+          "Courses Offered": [
+            "MBA/PGDM",
+            "One Year MBA Program",
+            "Online MBA/PGDM",
+            "Executive MBA",
+            "PhD/Fellow Program"
+          ]
+        },
+        "course_description": "SPJIMR offers a broad spectrum of programmes and courses for postgraduates, executives, entrepreneurs, women, and doctoral programs. SPJIMR offers 2 years full-time PGDM; PGDM (BM); Global Management Programme; 1 Year full-time PGPM; Post Graduate Executive Management Programme (PGEMP); Post Graduate Programme in General Management (PGPGM); Post Graduate Programme in Marketing and Business Management (PGPMBM); Doctoral Fellow Programme in Management (FPM) among others.",
+        "course_table": [
+          {
+            "Course": "Post Graduate Diploma in Management (PGDM)",
+            "TuitionFees": "Rs. 22.50 Lakhs",
+            "Eligibility": "Bachelor's Degree, with at least 50% marks or equivalent CGPA",
+            "AdmissionStatus": "Open | Apply Now"
+          },
+          {
+            "Course": "Post Graduate Program In Management (PGPM)",
+            "TuitionFees": "Rs. 23.50 Lakhs",
+            "Eligibility": "Bachelor's Degree, with at least 50% marks or equivalent CGPA",
+            "AdmissionStatus": "Open"
+          },
+          {
+            "Course": "Post Graduate Programme in Marketing & Business Management (PGP-MBM)",
+            "TuitionFees": "Rs. 4.69 Lakhs",
+            "Eligibility": "Bachelor's Degree, with at least 50% marks or equivalent CGPA",
+            "AdmissionStatus": "Open"
+          },
+          {
+            "Course": "Executive Post Graduate Programme in Management (EPGP)",
+            "TuitionFees": "Rs. 9.50 Lakhs",
+            "Eligibility": "Bachelor's Degree, with at least 50% marks or equivalent CGPA",
+            "AdmissionStatus": "Open"
+          },
+          {
+            "Course": "Fellow Programme in Management",
+            "TuitionFees": "-",
+            "Eligibility": "Master's degree or Post Graduate Diploma",
+            "AdmissionStatus": "Closed"
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "college": {
+        "name": "NMIMS School of Business Management",
+        "location": "Mumbai, Maharashtra",
+        "established": 1981,
+        "approved_by": [
+          "AICTE",
+          "UGC",
+          "NAAC",
+          "AACSB"
+        ],
+        "ownership_type": "Private",
+        "nirf_rank": 15,
+        "latest_update": "NMIMS is consistently ranked among the top business schools in India. The MBA program at NMIMS has achieved remarkable placement statistics with an average salary of Rs. 25.00 Lakhs per annum in 2024. The admission process for 2025 batch is currently open and candidates can apply through NMAT by GMAC.",
+        "highlight_table": {
+          "Establishment Year": 1981,
+          "Ownership Type": "Private",
+          "Approved/Accredited by": [
+            "UGC",
+            "AACSB",
+            "NAAC",
+            "AICTE"
+          ],
+          "Rankings": {
+            "NIRF": 15,
+            "MBAUniverse.com": 8,
+            "Business Today": 7
+          },
+          "Courses Offered": [
+            "MBA Core",
+            "MBA HR",
+            "MBA Finance",
+            "MBA Marketing",
+            "PhD Program"
+          ]
+        },
+        "course_description": "NMIMS offers diverse MBA programs with various specializations including Core MBA, HR, Finance, and Marketing. The curriculum is industry-focused and updated regularly to meet current business needs. The school also offers doctoral programs and executive education courses.",
+        "course_table": [
+          {
+            "Course": "MBA Core",
+            "TuitionFees": "Rs. 24.50 Lakhs",
+            "Eligibility": "Bachelor's Degree with minimum 60% marks",
+            "AdmissionStatus": "Open | Apply Now"
+          },
+          {
+            "Course": "MBA HR",
+            "TuitionFees": "Rs. 24.50 Lakhs",
+            "Eligibility": "Bachelor's Degree with minimum 60% marks",
+            "AdmissionStatus": "Open"
+          },
+          {
+            "Course": "MBA Finance",
+            "TuitionFees": "Rs. 24.50 Lakhs",
+            "Eligibility": "Bachelor's Degree with minimum 60% marks",
+            "AdmissionStatus": "Open"
+          },
+          {
+            "Course": "MBA Marketing",
+            "TuitionFees": "Rs. 24.50 Lakhs",
+            "Eligibility": "Bachelor's Degree with minimum 60% marks",
+            "AdmissionStatus": "Open"
+          },
+          {
+            "Course": "PhD in Management",
+            "TuitionFees": "Rs. 2.50 Lakhs per year",
+            "Eligibility": "Master's degree with minimum 60% marks",
+            "AdmissionStatus": "Open"
+          }
+        ]
+      }
+    }
+  ]

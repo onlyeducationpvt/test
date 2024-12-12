@@ -1,0 +1,673 @@
+{
+  "colleges": [
+    {
+      "id": 1,
+      "college": {
+        "name": "Birla Institute of Technology And Science, Pilani",
+        "bg":"https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/Bits_271d10b45d.png",
+        "image": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/Birla_Institute_of_Technology_And_Science_Pilani_9d3ff3bc7e.png",
+        "location": "Pilani, Rajasthan",
+        "established": 1964,
+        "ownership_type": "Private",
+        "approved_by": ["UGC", "NAAC", "NBA"],
+        "nirf_rank": 27,
+        "latest_update": [
+          "BITSAT 2025 dates announced. Applications open from December 15, 2024 to March 31, 2025.",
+          "The institute recorded highest package of INR 1.06 Cr for 2024 batch with average package of INR 25.2 LPA."        ],
+        "course_description": "BITS Pilani, established in 1964, is among India's top private engineering institutions. The institute is recognized for its merit-based admission process through BITSAT and innovative educational model. BITS Pilani consistently ranks among the top institutions in NIRF rankings and is known for its practice school program that provides students with hands-on industry experience.",
+        "highlight_table": {
+          "Establishment Year": "1964",
+          "Ownership Type": "Private",
+          "Approved/Accredited by": ["UGC", "NAAC", "NBA"],
+          "Rankings": {
+            "NIRF": "#27",
+            "QS World": "#171-180"
+          },
+          "Courses Offered": [
+            "B.Tech",
+            "M.Tech",
+            "MBA",
+            "PhD/Fellow Program"
+          ]
+        },
+        "course_table": [
+          {
+            "Course": "B.Tech",
+            "TuitionFees": "₹2,45,000 per semester",
+            "Duration": "4 Years",
+            "Eligibility": "BITSAT",
+            "AdmissionStatus": "Opening Soon"
+          },
+          {
+            "Course": "MBA",
+            "TuitionFees": "₹5,25,000 per semester",
+            "Duration": "2 Years",
+            "Eligibility": "CAT/GMAT/GRE",
+            "AdmissionStatus": "Open"
+          },
+          {
+            "Course": "M.Tech",
+            "TuitionFees": "₹1,85,000 per semester",
+            "Duration": "2 Years",
+            "Eligibility": "GATE",
+            "AdmissionStatus": "Opening Soon"
+          },
+          {
+            "Course": "PhD Program",
+            "TuitionFees": "₹45,000 per semester",
+            "Duration": "Varies",
+            "Eligibility": "NET/GATE",
+            "AdmissionStatus": "Open"
+          }
+        ],
+        "admission": {
+          "status": "Opening Soon",
+          "deadline": "March 31, 2025",
+          "average_salary": "25.2 Lakhs annually",
+          "website": "https://www.bits-pilani.ac.in/",
+          "process": [
+            "Register and appear for BITSAT 2025",
+            "Merit list preparation based on BITSAT score",
+            "Online counseling process",
+            "Document verification and fee payment"
+          ]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "college": {
+        "name": "Mukesh Patel School of Technology Management & Engineering",
+        "image": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/Mukesh_Patel_School_of_Technology_Management_and_Engineering_Mumbai_9ee95062f5.png",
+        "location": "Mumbai, Maharashtra",
+        "established": 2006,
+        "ownership_type": "Private",
+        "approved_by": ["AICTE", "UGC", "NBA"],
+        "nirf_rank": 161,
+        "latest_update": [
+          "NPAT 2025 registration opens January 2025 for B.Tech and integrated programs.",
+          "The MAT 2024 registration for December session is open until November 30, 2024.",
+          "CMAT 2025 registrations open until December 13, 2024. Exam scheduled for January 25, 2025."
+        ],
+        "course_description": "MPSTME, a constituent school of NMIMS University, is known for its technology and management programs. The institute achieved 95% placement for 2024 batch with average package of 12.5 LPA. MPSTME offers various undergraduate and postgraduate programs with focus on industry-integrated curriculum.",
+        "highlight_table": {
+          "Establishment Year": "2006",
+          "Ownership Type": "Private",
+          "Approved/Accredited by": ["AICTE", "UGC", "NBA"],
+          "Rankings": {
+            "NIRF": "#161",
+            "Business Today": "#45"
+          },
+          "Courses Offered": [
+            "B.Tech",
+            "M.Tech",
+            "MBA Tech",
+            "MCA"
+          ]
+        },
+        "course_table": [
+          {
+            "Course": "B.Tech",
+            "TuitionFees": "₹3,85,000 per year",
+            "Duration": "4 Years",
+            "Eligibility": "NPAT",
+            "AdmissionStatus": "Opening Soon"
+          },
+          {
+            "Course": "MBA Tech",
+            "TuitionFees": "₹4,75,000 per year",
+            "Duration": "5 Years",
+            "Eligibility": "NPAT",
+            "AdmissionStatus": "Opening Soon"
+          },
+          {
+            "Course": "M.Tech",
+            "TuitionFees": "₹3,25,000 per year",
+            "Duration": "2 Years",
+            "Eligibility": "GATE",
+            "AdmissionStatus": "Open"
+          }
+        ],
+        "admission": {
+          "status": "Opening Soon",
+          "deadline": "April 15, 2025",
+          "average_salary": "12.5 Lakhs annually",
+          "website": "https://engineering.nmims.edu/",
+          "process": [
+            "Register for NPAT 2025",
+            "Appear for NPAT examination",
+            "Merit list declaration",
+            "Counseling and admission confirmation"
+          ]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "college": {
+        "name": "Vellore Institute of Technology",
+        "bg":"https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/vit_velhore_c0d1932a90.png",
+        "image": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/Vellore_Institute_of_Technology_604903e601.png",
+        "location": "Vellore, Tamil Nadu",
+        "established": 1984,
+        "ownership_type": "Private",
+        "approved_by": ["UGC", "NAAC", "AICTE"],
+        "nirf_rank": 9,
+        "latest_update": [
+          "VITEEE 2025 registration starts from November 11, 2024.",
+          "Record placements with 8500+ offers for 2024 batch, highest package at 45 LPA.",
+          "The XAT 2025 registration deadline is November 30, 2024."
+        ],
+        "course_description": "VIT is one of India's leading private engineering institutions, ranked 9th by NIRF 2024. Known for its research-oriented programs and international collaborations, VIT offers comprehensive programs in engineering, management, and sciences. The institute achieved remarkable placements for 2024 batch with average package of 9.5 LPA.",
+        "highlight_table": {
+          "Establishment Year": "1984",
+          "Ownership Type": "Private",
+          "Approved/Accredited by": ["UGC", "NAAC", "AICTE"],
+          "Rankings": {
+            "NIRF": "#9",
+            "QS Asia": "#173"
+          },
+          "Courses Offered": [
+            "B.Tech",
+            "M.Tech",
+            "MCA",
+            "PhD"
+          ]
+        },
+        "course_table": [
+          {
+            "Course": "B.Tech",
+            "TuitionFees": "₹2,85,000 per semester",
+            "Duration": "4 Years",
+            "Eligibility": "VITEEE",
+            "AdmissionStatus": "Open"
+          },
+          {
+            "Course": "M.Tech",
+            "TuitionFees": "₹1,95,000 per semester",
+            "Duration": "2 Years",
+            "Eligibility": "GATE/VITMEE",
+            "AdmissionStatus": "Opening Soon"
+          },
+          {
+            "Course": "MCA",
+            "TuitionFees": "₹1,75,000 per semester",
+            "Duration": "2 Years",
+            "Eligibility": "VITMEE",
+            "AdmissionStatus": "Open"
+          }
+        ],
+        "admission": {
+          "status": "Open",
+          "deadline": "March 31, 2025",
+          "average_salary": "9.5 Lakhs annually",
+          "website": "https://vit.ac.in/",
+          "process": [
+            "Apply for VITEEE 2025",
+            "Appear for online entrance exam",
+            "Counseling based on VITEEE rank",
+            "Document verification and admission confirmation"
+          ]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "college": {
+        "name": "Shiv Nadar University",
+        "image": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/Shiv_Nadar_University_Noida_f2384480f9.png",
+        "location": "Greater Noida, Uttar Pradesh",
+        "established": 2011,
+        "ownership_type": "Private",
+        "approved_by": ["UGC", "NAAC"],
+        "nirf_rank": 88,
+        "latest_update": [
+          "Applications for 2025 admission open through SNUSAT & APT until April 30, 2025.",
+          "The MAT 2024 December session registration open until November 30, 2024.",
+          "CMAT 2025 registrations open until December 13, 2024."
+        ],
+        "course_description": "Shiv Nadar University is a multidisciplinary research university offering diverse academic programs. The university has strong industry connections and recorded average placement package of 12.8 LPA for 2024 batch. SNU is known for its research-focused approach and innovative teaching methodology.",
+        "highlight_table": {
+          "Establishment Year": "2011",
+          "Ownership Type": "Private",
+          "Approved/Accredited by": ["UGC", "NAAC"],
+          "Rankings": {
+            "NIRF": "#88",
+            "THE Impact": "#601-800"
+          },
+          "Courses Offered": [
+            "B.Tech",
+            "M.Tech",
+            "MBA",
+            "PhD"
+          ]
+        },
+        "course_table": [
+          {
+            "Course": "B.Tech",
+            "TuitionFees": "₹3,25,000 per semester",
+            "Duration": "4 Years",
+            "Eligibility": "SNUSAT & APT",
+            "AdmissionStatus": "Open"
+          },
+          {
+            "Course": "MBA",
+            "TuitionFees": "₹4,75,000 per semester",
+            "Duration": "2 Years",
+            "Eligibility": "CAT/GMAT/GRE",
+            "AdmissionStatus": "Open"
+          },
+          {
+            "Course": "M.Tech",
+            "TuitionFees": "₹2,25,000 per semester",
+            "Duration": "2 Years",
+            "Eligibility": "GATE",
+            "AdmissionStatus": "Open"
+          }
+        ],
+        "admission": {
+          "status": "Open",
+          "deadline": "April 30, 2025",
+          "average_salary": "12.8 Lakhs annually",
+          "website": "https://snu.edu.in/",
+          "process": [
+            "Register for SNUSAT & APT",
+            "Complete online entrance tests",
+            "Personal interview round",
+            "Merit list publication and admission confirmation"
+          ]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "college": {
+        "name": "Amity University",
+        "image": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/amity_university_bd6921f1de.png",
+        "location": "Noida, Uttar Pradesh",
+        "established": 2003,
+        "ownership_type": "Private",
+        "approved_by": ["UGC", "NAAC", "AIU"],
+        "nirf_rank": 109,
+        "latest_update": [
+          "AIEET 2025 registration starts from December 2024.",
+          "The XAT 2025 registration deadline is November 30, 2024.",
+          "MAT 2024 December session registrations open until November 30, 2024."
+        ],
+        "course_description": "Amity University is a leading private university with multiple campuses across India. Known for its industry-integrated programs and global exposure, Amity offers diverse courses across various disciplines. The university achieved significant placements for 2024 batch with average package of 8.5 LPA.",
+        "highlight_table": {
+          "Establishment Year": "2003",
+          "Ownership Type": "Private",
+          "Approved/Accredited by": ["UGC", "NAAC", "AIU"],
+          "Rankings": {
+            "NIRF": "#109",
+            "THE World": "#801-1000"
+          },
+          "Courses Offered": [
+            "B.Tech",
+            "MBA",
+            "Law",
+            "PhD"
+          ]
+        },
+        "course_table": [
+          {
+            "Course": "B.Tech",
+            "TuitionFees": "₹2,85,000 per semester",
+            "Duration": "4 Years",
+            "Eligibility": "AIEET/JEE Main",
+            "AdmissionStatus": "Open"
+          },
+          {
+            "Course": "MBA",
+            "TuitionFees": "₹3,75,000 per semester",
+            "Duration": "2 Years",
+            "Eligibility": "CAT/MAT/GMAT",
+            "AdmissionStatus": "Open"
+          },
+          {
+            "Course": "Integrated B.Tech + MBA",
+            "TuitionFees": "₹3,25,000 per semester",
+            "Duration": "5 Years",
+            "Eligibility": "AIEET",
+            "AdmissionStatus": "Open"
+          }
+        ],
+        "admission": {
+          "status": "Open",
+          "deadline": "May 31, 2025",
+          "average_salary": "8.5 Lakhs annually",
+          "website": "https://www.amity.edu/",
+          "process": [
+            "Apply through AIEET or national entrance exams",
+            "Personal interview round",
+            "Document verification",
+            "Merit list publication and admission confirmation"
+          ]
+        }
+      }
+    },
+    {
+      "id": 6,
+      "college": {
+        "name": "Veermata Jijabai Technological Institute",
+        "bg":"https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/vjti_b911e5fa57.png",
+        "image": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/vjti_1_ee17ea77e4.png",
+        "location": "Mumbai, Maharashtra",
+        "established": 1887,
+        "ownership_type": "Government",
+        "approved_by": ["AICTE", "UGC", "NBA"],
+        "nirf_rank": 142,
+        "latest_update": [
+          "GATE 2025 registration with late fee closed for MTech admissions. Exam scheduled for February 2025.",
+          "MHT CET 2025 registration dates to be announced soon.",
+          "VJTI recorded 95% placement for 2024 batch with highest package of 44.5 LPA."
+        ],
+        "course_description": "VJTI, established in 1887, is one of the premier engineering institutions in Maharashtra. The institute offers various undergraduate and postgraduate programs in engineering and technology. VJTI has consistently maintained excellent placement records with top companies recruiting its students.",
+        "highlight_table": {
+          "Establishment Year": "1887",
+          "Ownership Type": "Government",
+          "Approved/Accredited by": ["AICTE", "UGC", "NBA"],
+          "Rankings": {
+            "NIRF": "#142"
+          },
+          "Courses Offered": [
+            "B.Tech",
+            "M.Tech",
+            "PhD"
+          ]
+        },
+        "course_table": [
+          {
+            "Course": "B.Tech",
+            "TuitionFees": "₹1,85,000 per year",
+            "Duration": "4 Years",
+            "Eligibility": "JEE Main/MHT-CET",
+            "AdmissionStatus": "Opening Soon"
+          },
+          {
+            "Course": "M.Tech",
+            "TuitionFees": "₹1,25,000 per year",
+            "Duration": "2 Years",
+            "Eligibility": "GATE",
+            "AdmissionStatus": "Opening Soon"
+          },
+          {
+            "Course": "PhD",
+            "TuitionFees": "₹25,000 per semester",
+            "Duration": "3-5 Years",
+            "Eligibility": "GATE/NET",
+            "AdmissionStatus": "Open"
+          }
+        ],
+        "admission": {
+          "status": "Opening Soon",
+          "deadline": "Based on MHT CET/JEE Main Schedule",
+          "average_salary": "15.2 Lakhs annually",
+          "website": "https://www.vjti.ac.in/",
+          "process": [
+            "Apply through MHT CET/JEE Main",
+            "Participate in CAP rounds",
+            "Document verification",
+            "Admission confirmation and fee payment"
+          ]
+        }
+      }
+    },
+    {
+      "id": 7,
+      "college": {
+        "name": "Sardar Patel Institute of Technology",
+        "bg":"https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/sardar_valabhbhai_1f1fe4581e.png",
+        "image": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/Sardar_Patel_College_of_Engineering_Mumbai_logo_e899679da7.png",
+        "location": "Mumbai, Maharashtra",
+        "established": 1995,
+        "ownership_type": "Private",
+        "approved_by": ["AICTE", "UGC", "NBA"],
+        "nirf_rank": 201,
+        "latest_update": [
+          "MHT CET 2025 registration dates to be announced soon for BTech admission.",
+          "GATE 2025 registration closed. Exam scheduled for February 2025.",
+          "The institute achieved 92% placement for 2024 batch with highest package of 32 LPA."
+        ],
+        "course_description": "SPIT is an autonomous institute known for its excellent academic standards and research activities. The institute maintains strong industry connections and offers various undergraduate and postgraduate programs in engineering. Known for its consistent placement record and strong alumni network.",
+        "highlight_table": {
+          "Establishment Year": "1995",
+          "Ownership Type": "Private",
+          "Approved/Accredited by": ["AICTE", "UGC", "NBA"],
+          "Rankings": {
+            "NIRF": "#201"
+          },
+          "Courses Offered": [
+            "B.Tech",
+            "M.Tech",
+            "PhD"
+          ]
+        },
+        "course_table": [
+          {
+            "Course": "B.Tech",
+            "TuitionFees": "₹1,95,000 per year",
+            "Duration": "4 Years",
+            "Eligibility": "JEE Main/MHT-CET",
+            "AdmissionStatus": "Opening Soon"
+          },
+          {
+            "Course": "M.Tech",
+            "TuitionFees": "₹1,45,000 per year",
+            "Duration": "2 Years",
+            "Eligibility": "GATE",
+            "AdmissionStatus": "Open"
+          }
+        ],
+        "admission": {
+          "status": "Opening Soon",
+          "deadline": "Based on MHT CET Schedule",
+          "average_salary": "12.8 Lakhs annually",
+          "website": "https://www.spit.ac.in/",
+          "process": [
+            "Register for MHT CET/JEE Main",
+            "Participate in centralized admission process",
+            "Merit list declaration",
+            "Admission confirmation"
+          ]
+        }
+      }
+    },
+    {
+      "id": 8,
+      "college": {
+        "name": "Amrita Vishwa Vidyapeetham",
+        "image": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/Amrita_Vishwa_Vidyapeetham_Coimbatore_973ad52f57.png",
+        "location": "Coimbatore, Tamil Nadu",
+        "established": 1994,
+        "ownership_type": "Private",
+        "approved_by": ["UGC", "NAAC", "NBA"],
+        "nirf_rank": 7,
+        "latest_update": [
+          "AEEE 2025 (Amrita Entrance Exam) registration to start from December 2024.",
+          "The institute achieved record placements for 2024 batch with highest package of 1.2 Cr.",
+          "New collaborations announced with international universities for research programs."
+        ],
+        "course_description": "Amrita Vishwa Vidyapeetham is ranked 7th in NIRF 2024 rankings. Known for its world-class infrastructure and research facilities, the university offers various programs in engineering, management, and medical sciences. The institution has strong international collaborations and excellent placement records.",
+        "highlight_table": {
+          "Establishment Year": "1994",
+          "Ownership Type": "Private",
+          "Approved/Accredited by": ["UGC", "NAAC", "NBA"],
+          "Rankings": {
+            "NIRF": "#7",
+            "THE Asia": "#201-250"
+          },
+          "Courses Offered": [
+            "B.Tech",
+            "M.Tech",
+            "MBA",
+            "PhD"
+          ]
+        },
+        "course_table": [
+          {
+            "Course": "B.Tech",
+            "TuitionFees": "₹2,25,000 per semester",
+            "Duration": "4 Years",
+            "Eligibility": "AEEE/JEE Main",
+            "AdmissionStatus": "Opening Soon"
+          },
+          {
+            "Course": "M.Tech",
+            "TuitionFees": "₹1,75,000 per semester",
+            "Duration": "2 Years",
+            "Eligibility": "GATE",
+            "AdmissionStatus": "Open"
+          },
+          {
+            "Course": "MBA",
+            "TuitionFees": "₹4,25,000 per semester",
+            "Duration": "2 Years",
+            "Eligibility": "CAT/MAT/GMAT",
+            "AdmissionStatus": "Open"
+          }
+        ],
+        "admission": {
+          "status": "Opening Soon",
+          "deadline": "April 30, 2025",
+          "average_salary": "18.5 Lakhs annually",
+          "website": "https://www.amrita.edu/",
+          "process": [
+            "Apply for AEEE 2025",
+            "Appear for entrance examination",
+            "Counseling process",
+            "Admission confirmation"
+          ]
+        }
+      }
+    },
+    {
+      "id": 9,
+      "college": {
+        "name": "Pune Institute of Computer Technology",
+        "bg":"https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/pict_4779aaf103.png",
+        "image": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/PICT_Top_Engineering_College_ae6b8df329.png",
+        "location": "Pune, Maharashtra",
+        "established": 1983,
+        "ownership_type": "Private",
+        "approved_by": ["AICTE", "UGC", "NBA"],
+        "nirf_rank": 251,
+        "latest_update": [
+          "MHT CET 2025 registration dates to be announced soon.",
+          "The institute recorded 85% placement for 2024 batch.",
+          "New specializations in AI and ML announced for 2025 batch."
+        ],
+        "course_description": "PICT is one of the premier engineering institutes in Pune, specializing in Computer Engineering education. The institute maintains strong industry connections and offers various specialized programs in computer science and allied fields. Known for its excellent placement record and research initiatives.",
+        "highlight_table": {
+          "Establishment Year": "1983",
+          "Ownership Type": "Private",
+          "Approved/Accredited by": ["AICTE", "UGC", "NBA"],
+          "Rankings": {
+            "NIRF": "#251"
+          },
+          "Courses Offered": [
+            "B.Tech",
+            "M.Tech",
+            "PhD"
+          ]
+        },
+        "course_table": [
+          {
+            "Course": "B.Tech",
+            "TuitionFees": "₹1,65,000 per year",
+            "Duration": "4 Years",
+            "Eligibility": "MHT-CET/JEE Main",
+            "AdmissionStatus": "Opening Soon"
+          },
+          {
+            "Course": "M.Tech",
+            "TuitionFees": "₹1,25,000 per year",
+            "Duration": "2 Years",
+            "Eligibility": "GATE",
+            "AdmissionStatus": "Open"
+          }
+        ],
+        "admission": {
+          "status": "Opening Soon",
+          "deadline": "Based on MHT CET Schedule",
+          "average_salary": "10.5 Lakhs annually",
+          "website": "https://pict.edu/",
+          "process": [
+            "Apply through MHT CET/JEE Main",
+            "Participate in CAP rounds",
+            "Merit list declaration",
+            "Document verification and admission"
+          ]
+        }
+      }
+    },
+    {
+      "id": 10,
+      "college": {
+        "name": "College Of Engineering Pune",
+        "bg":"https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/Coep_7c2fe8e19e.png",
+        "image": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/The_College_of_Engineering_Pune_e875aadafa.png",
+        "location": "Pune, Maharashtra",
+        "established": 1854,
+        "ownership_type": "Government",
+        "approved_by": ["AICTE", "UGC", "NBA"],
+        "nirf_rank": 54,
+        "latest_update": [
+          "GATE 2025 registration closed. Exam scheduled for February 2025.",
+          "MHT CET 2025 registration dates to be announced soon.",
+          "The institute achieved 95% placement for 2024 batch with highest package of 48.5 LPA."
+        ],
+        "course_description": "COEP, established in 1854, is one of the oldest and premier engineering institutes in India. The institute has consistently maintained high academic standards and research output. COEP is known for its strong alumni network and excellent placement record with leading companies.",
+        "highlight_table": {
+          "Establishment Year": "1854",
+          "Ownership Type": "Government",
+          "Approved/Accredited by": ["AICTE", "UGC", "NBA"],
+          "Rankings": {
+            "NIRF": "#54"
+          },
+          "Courses Offered": [
+            "B.Tech",
+            "M.Tech",
+            "PhD"
+          ]
+        },
+        "course_table": [
+          {
+            "Course": "B.Tech",
+            "TuitionFees": "₹85,000 per year",
+            "Duration": "4 Years",
+            "Eligibility": "JEE Main/MHT-CET",
+            "AdmissionStatus": "Opening Soon"
+          },
+          {
+            "Course": "M.Tech",
+            "TuitionFees": "₹95,000 per year",
+            "Duration": "2 Years",
+            "Eligibility": "GATE",
+            "AdmissionStatus": "Open"
+          },
+          {
+            "Course": "PhD",
+            "TuitionFees": "₹25,000 per semester",
+            "Duration": "3-5 Years",
+            "Eligibility": "GATE/NET",
+            "AdmissionStatus": "Open"
+          }
+        ],
+        "admission": {
+          "status": "Opening Soon",
+          "deadline": "Based on MHT CET/JEE Main Schedule",
+          "average_salary": "16.8 Lakhs annually",
+          "website": "https://www.coep.org.in/",
+          "process": [
+            "Apply through JEE Main/MHT CET",
+            "Participate in centralized admission process",
+            "Document verification",
+            "Admission confirmation"
+          ]
+        }
+      }
+    }
+  ]
+}

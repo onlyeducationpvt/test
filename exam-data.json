@@ -1,0 +1,610 @@
+{
+  "exams": [
+    {
+      "id": "jee-mains",
+      "title": "JEE Mains - Joint Entrance Examination",
+      "exam_date": "2025-01-22",
+      "exam_logo": {
+        "url": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/jee_mains_d6319b718c.png"
+      },
+      "conducting_body": "National Testing Agency (NTA)",
+      "official_website": "https://jeemain.nta.nic.in/",
+      "important_dates": [
+        {
+          "event": "Registration Start Session 1",
+          "date": "October 28, 2024"
+        },
+        {
+          "event": "Registration Last Date Session 1",
+          "date": "November 22, 2024"
+        },
+        {
+          "event": "Form Correction Session 1",
+          "date": "November 26 to 27, 2024"
+        },
+        {
+          "event": "Admit Card Release",
+          "date": "January 19, 2025"
+        },
+        {
+          "event": "Exam Date Session 1",
+          "date": "January 22 to 31, 2025"
+        },
+        {
+          "event": "Exam Date Session 2",
+          "date": "April 1 to 8, 2025"
+        }
+      ],
+      "highlights": [
+        {
+          "particulars": "Full Form",
+          "details": "Joint Entrance Examination Main"
+        },
+        {
+          "particulars": "Mode of Examination",
+          "details": "Online (Computer Based Test)"
+        },
+        {
+          "particulars": "Number of Sessions",
+          "details": "Two sessions per year"
+        },
+        {
+          "particulars": "Application Process",
+          "details": "Online only"
+        },
+        {
+          "particulars": "Registration Fee",
+          "details": "Rs. 1000 for Male candidates of Unreserved\nRs. 900 for Male candidates of Gen-EWS/OBC category\nRs. 800 for Female candidates of Unreserved/Gen-EWS/OBC category\nRs. 500 for SC/ST/PwD/Transgender category candidates"
+        },
+        {
+          "particulars": "Exam Pattern",
+          "details": "Physics, Chemistry, Mathematics (25 questions each)"
+        },
+        {
+          "particulars": "Total Questions",
+          "details": "75 questions"
+        },
+        {
+          "particulars": "Marking Scheme",
+          "details": "+4 for correct answer, -1 for wrong answer"
+        }
+      ]
+    },
+    {
+      "id": "jee-advanced",
+      "title": "JEE Advanced - Joint Entrance Examination Advanced",
+      "exam_date": "2025-05-01",
+      "exam_logo": {
+        "url": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/Jee_advance_1_a79d9ccd69.png"
+      },
+      "conducting_body": "Indian Institute of Technology Madras",
+      "official_website": "https://jeeadv.ac.in/",
+      "important_dates": [
+        {
+          "event": "Registration Start",
+          "date": "April 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Registration Last Date",
+          "date": "May 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Admit Card Release",
+          "date": "May 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Exam Date",
+          "date": "May 2025",
+          "note": "Tentative"
+        }
+      ],
+      "highlights": [
+        {
+          "particulars": "Full Form",
+          "details": "Joint Entrance Examination Advanced"
+        },
+        {
+          "particulars": "Conducting Body",
+          "details": "Indian Institute of Technology Madras"
+        },
+        {
+          "particulars": "Mode Of Exam",
+          "details": "Online"
+        },
+        {
+          "particulars": "Exam Duration",
+          "details": "Paper 1 & 2: 3 Hours each"
+        },
+        {
+          "particulars": "Eligibility",
+          "details": "Must qualify JEE Mains 2025"
+        },
+        {
+          "particulars": "Application Fee",
+          "details": "Rs. 2900 for general category (may vary for other categories)"
+        },
+        {
+          "particulars": "Language",
+          "details": "English only"
+        }
+      ]
+    },
+    {
+      "id": "mht-cet",
+      "title": "Maharashtra Common Entrance Test",
+      "exam_date": "April 2025",
+      "exam_logo": {
+        "url": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/Mh_cet_29680a5e66.png"
+      },
+      "conducting_body": "State Common Entrance Test Cell, Maharashtra",
+      "official_website": "https://cetcell.mahacet.org/",
+      "important_dates": [
+        {
+          "event": "Registration Start",
+          "date": "January 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Registration End",
+          "date": "March 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Admit Card Release",
+          "date": "April 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Exam Date",
+          "date": "April 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Result Declaration",
+          "date": "June 2025",
+          "note": "Tentative"
+        }
+      ],
+      "highlights": [
+        {
+          "particulars": "Full Form",
+          "details": "Maharashtra Common Entrance Test"
+        },
+        {
+          "particulars": "Mode of Exam",
+          "details": "Online (Computer Based Test)"
+        },
+        {
+          "particulars": "Exam Duration",
+          "details": "180 Minutes"
+        },
+        {
+          "particulars": "Sections",
+          "details": "Physics (50 marks)\nChemistry (50 marks)\nMathematics (50 marks)"
+        },
+        {
+          "particulars": "Question Type",
+          "details": "Multiple Choice Questions"
+        },
+        {
+          "particulars": "Total Questions",
+          "details": "150 (50 per subject)"
+        },
+        {
+          "particulars": "Marking Scheme",
+          "details": "+1 for correct answer, No negative marking"
+        },
+        {
+          "particulars": "Language",
+          "details": "English and Marathi"
+        }
+      ]
+    },
+    {
+      "id": "viteee",
+      "title": "VIT Engineering Entrance Examination",
+      "exam_date": "April 2025",
+      "exam_logo": {
+        "url": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/Vellore_Institute_of_Technology_604903e601.png"
+      },
+      "conducting_body": "Vellore Institute of Technology",
+      "official_website": "https://viteee.vit.ac.in",
+      "important_dates": [
+        {
+          "event": "Registration Start",
+          "date": "November 2024"
+        },
+        {
+          "event": "Registration End",
+          "date": "March 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Exam Date",
+          "date": "April 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Result Declaration",
+          "date": "May 2025",
+          "note": "Tentative"
+        }
+      ],
+      "highlights": [
+        {
+          "particulars": "Full Form",
+          "details": "VIT Engineering Entrance Examination"
+        },
+        {
+          "particulars": "Mode of Exam",
+          "details": "Online Proctored Examination"
+        },
+        {
+          "particulars": "Duration",
+          "details": "2 hours 30 minutes"
+        },
+        {
+          "particulars": "Sections",
+          "details": "Physics (40 questions)\nChemistry (40 questions)\nMathematics (40 questions)\nEnglish and Aptitude (5 questions)"
+        },
+        {
+          "particulars": "Total Questions",
+          "details": "125"
+        },
+        {
+          "particulars": "Marking Scheme",
+          "details": "+1 for correct answer, -0.25 for wrong answer"
+        },
+        {
+          "particulars": "Language",
+          "details": "English only"
+        },
+        {
+          "particulars": "Application Fee",
+          "details": "Rs. 1,280/-"
+        }
+      ]
+    },
+    {
+      "id": "comedk",
+      "title": "Consortium of Medical, Engineering and Dental Colleges of Karnataka",
+      "exam_date": "2025-05-12",
+      "exam_logo": {
+        "url": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/COMEDK_913a70fbea.png"
+      },
+      "conducting_body": "COMEDK",
+      "official_website": "https://www.comedk.org/",
+      "important_dates": [
+        {
+          "event": "Registration Start",
+          "date": "January 15, 2025"
+        },
+        {
+          "event": "Registration End",
+          "date": "April 15, 2025"
+        },
+        {
+          "event": "Mock Test",
+          "date": "April 25-30, 2025"
+        },
+        {
+          "event": "Admit Card Release",
+          "date": "May 5, 2025"
+        },
+        {
+          "event": "Exam Date",
+          "date": "May 12, 2025"
+        }
+      ],
+      "highlights": [
+        {
+          "particulars": "Full Form",
+          "details": "Consortium of Medical, Engineering and Dental Colleges of Karnataka"
+        },
+        {
+          "particulars": "Mode of Exam",
+          "details": "Computer Based Test"
+        },
+        {
+          "particulars": "Duration",
+          "details": "3 hours"
+        },
+        {
+          "particulars": "Sections",
+          "details": "Physics (60 questions)\nChemistry (60 questions)\nMathematics (60 questions)"
+        },
+        {
+          "particulars": "Total Questions",
+          "details": "180"
+        },
+        {
+          "particulars": "Marking Scheme",
+          "details": "+1 for correct answer, -0.25 for wrong answer"
+        },
+        {
+          "particulars": "Application Fee",
+          "details": "Rs. 1,800/- (General)\nRs. 1,400/- (SC/ST Karnataka)"
+        }
+      ]
+    },
+    {
+      "id": "bitsat",
+      "title": "BITS Admission Test",
+      "exam_date": "2025-05-20",
+      "exam_logo": {
+        "url": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/Birla_Institute_of_Technology_And_Science_Pilani_9d3ff3bc7e.png"
+      },
+      "conducting_body": "Birla Institute of Technology and Science",
+      "official_website": "https://www.bitsadmission.com/",
+      "important_dates": [
+        {
+          "event": "Registration Start",
+          "date": "January 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Registration End",
+          "date": "March 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Slot Booking",
+          "date": "April 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Exam Date",
+          "date": "May 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Result Date",
+          "date": "June 2025",
+          "note": "Tentative"
+        }
+      ],
+      "highlights": [
+        {
+          "particulars": "Full Form",
+          "details": "BITS Admission Test"
+        },
+        {
+          "particulars": "Mode of Exam",
+          "details": "Computer Based Test"
+        },
+        {
+          "particulars": "Duration",
+          "details": "3 hours"
+        },
+        {
+          "particulars": "Sections",
+          "details": "Physics (40 questions)\nChemistry (40 questions)\nEnglish Proficiency (15 questions)\nLogical Reasoning (10 questions)\nMathematics (45 questions)"
+        },
+        {
+          "particulars": "Total Questions",
+          "details": "150"
+        },
+        {
+          "particulars": "Marking Scheme",
+          "details": "+3 for correct answer, -1 for wrong answer"
+        },
+        {
+          "particulars": "Application Fee",
+          "details": "Rs. 3,800/- (Male)\nRs. 3,300/- (Female)"
+        }
+      ]
+    },
+    {
+      "id": "kcet",
+      "title": "Karnataka Common Entrance Test",
+      "exam_date": "May 2025",
+      "exam_logo": {
+        "url": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/Kcet_a3b2918ac0.png"
+      },
+      "conducting_body": "Karnataka Examinations Authority (KEA)",
+      "official_website": "https://cetonline.karnataka.gov.in/kea/",
+      "important_dates": [
+        {
+          "event": "Registration Start",
+          "date": "February 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Registration End",
+          "date": "March 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Admit Card Release",
+          "date": "April 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Exam Date",
+          "date": "May 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Result Date",
+          "date": "June 2025",
+          "note": "Tentative"
+        }
+      ],
+      "highlights": [
+        {
+          "particulars": "Full Form",
+          "details": "Karnataka Common Entrance Test"
+        },
+        {
+          "particulars": "Mode of Exam",
+          "details": "Offline (OMR Based)"
+        },
+        {
+          "particulars": "Duration",
+          "details": "Mathematics: 80 mins\nPhysics: 60 mins\nChemistry: 60 mins"
+        },
+        {
+          "particulars": "Total Questions",
+          "details": "60 questions per subject"
+        },
+        {
+          "particulars": "Marking Scheme",
+          "details": "+1 for correct answer, No negative marking"
+        },
+        {
+          "particulars": "Language",
+          "details": "English and Kannada"
+        },
+        {
+          "particulars": "Application Fee",
+          "details": "Rs. 650/- (General)\nRs. 500/- (SC/ST/Category-1 Karnataka)"
+        }
+      ]
+    },
+    {
+      "id": "cuet",
+      "title": "Common University Entrance Test",
+      "exam_date": "May 2025",
+      "exam_logo": {
+        "url": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/Common_University_Entrance_Test_901c4c7a85.png"
+      },
+      "conducting_body": "National Testing Agency",
+      "official_website": "https://cuet.nta.nic.in/",
+      "important_dates": [
+        {
+          "event": "Registration Start",
+          "date": "February 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Registration End",
+          "date": "March 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Admit Card Release",
+          "date": "April 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Exam Date",
+          "date": "May 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Result Date",
+          "date": "June 2025",
+          "note": "Tentative"
+        }
+      ],
+      "highlights": [
+        {
+          "particulars": "Full Form",
+          "details": "Common University Entrance Test"
+        },
+        {
+          "particulars": "Mode of Exam",
+          "details": "Computer Based Test"
+        },
+        {
+          "particulars": "Duration",
+          "details": "45-225 minutes (depending on subjects chosen)"
+        },
+        {
+          "particulars": "Sections",
+          "details": "Domain Specific Subjects\nGeneral Test\nLanguages"
+        },
+        {
+          "particulars": "Question Type",
+          "details": "MCQs & Numerical Value Questions"
+        },
+        {
+          "particulars": "Marking Scheme",
+          "details": "+5 for correct answer, -1 for wrong answer"
+        },
+        {
+          "particulars": "Application Fee",
+          "details": "Rs. 1000/- (General)\nRs. 800/- (OBC-NCL/EWS)\nRs. 700/- (SC/ST/PwD)"
+        }
+      ]
+    },
+    {
+      "id": "met",
+      "title": "Manipal Entrance Test",
+      "exam_date": "April 2025",
+      "exam_logo": {
+        "url": "https://only-education-strapi-media.s3.ap-south-1.amazonaws.com/met_217db8cfa3.png"
+      },
+      "conducting_body": "Manipal Academy of Higher Education",
+      "official_website": "https://manipal.edu/met.html",
+      "important_dates": [
+        {
+          "event": "Registration Start",
+          "date": "October 2024"
+        },
+        {
+          "event": "Registration End",
+          "date": "March 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Slot Booking",
+          "date": "April 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Exam Date (1st Attempt)",
+          "date": "April 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Exam Date (2nd Attempt)",
+          "date": "May 2025",
+          "note": "Tentative"
+        },
+        {
+          "event": "Result Declaration",
+          "date": "June 2025",
+          "note": "Tentative"
+        }
+      ],
+      "highlights": [
+        {
+          "particulars": "Full Form",
+          "details": "Manipal Entrance Test"
+        },
+        {
+          "particulars": "Mode of Exam",
+          "details": "Computer Based Test"
+        },
+        {
+          "particulars": "Duration",
+          "details": "2 hours 30 minutes"
+        },
+        {
+          "particulars": "Sections",
+          "details": "Physics (60 questions)\nChemistry (60 questions)\nMathematics (60 questions)"
+        },
+        {
+          "particulars": "Total Questions",
+          "details": "180"
+        },
+        {
+          "particulars": "Marking Scheme",
+          "details": "+4 for correct answer, -1 for wrong answer"
+        },
+        {
+          "particulars": "Language",
+          "details": "English"
+        },
+        {
+          "particulars": "Application Fee",
+          "details": "Rs. 2,400/-"
+        }
+      ]
+    }
+  ]
+}
